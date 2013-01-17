@@ -58,10 +58,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CarTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="CarTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/tw/oo/CarTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="16" selection-start="1610" selection-end="1610" vertical-scroll-proportion="0.0">
+            <state line="75" column="17" selection-start="1699" selection-end="1699" vertical-scroll-proportion="0.69911504">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,10 +69,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Car.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Car.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/tw/oo/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="65" selection-start="505" selection-end="505" vertical-scroll-proportion="0.66150445">
+            <state line="21" column="29" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -84,6 +84,13 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/org/tw/oo/Car.java" />
+      </list>
+    </option>
   </component>
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
@@ -287,6 +294,34 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="CarTest.shouldDisplayMovingWhenStartedupWithGearedAndAccelerated" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.tw.oo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="oocamp" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.tw.oo" />
+      <option name="MAIN_CLASS_NAME" value="org.tw.oo.CarTest" />
+      <option name="METHOD_NAME" value="shouldDisplayMovingWhenStartedupWithGearedAndAccelerated" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -363,8 +398,9 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="JUnit.CarTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CarTest.shouldDisplayMovingWhenStartedupWithGearedAndAccelerated" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -414,7 +450,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2494244" sideWeight="0.67086834" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32913166" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32913166" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -481,19 +517,19 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/tw/oo/CarTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/tw/oo/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="16" selection-start="1610" selection-end="1610" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="21" column="29" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/tw/oo/Car.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/tw/oo/CarTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="65" selection-start="505" selection-end="505" vertical-scroll-proportion="0.66150445">
-          <folding />
+        <state line="75" column="17" selection-start="1699" selection-end="1699" vertical-scroll-proportion="0.69911504">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

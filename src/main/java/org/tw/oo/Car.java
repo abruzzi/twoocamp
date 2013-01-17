@@ -16,7 +16,13 @@ public class Car {
     }
 
     public void accelerate() {
-        status = status.equals("Flameout") ? "Flameout" : "Rotating";
+        if(status.equals("Flameout")) {
+            status = "Flameout";
+        } else if (status.equals("Geared")){
+            status =  "Moving";
+        } else {
+            status =  "Rotating";
+        }
     }
 
     public void stop() {
