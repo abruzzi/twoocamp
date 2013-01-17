@@ -4,3 +4,14 @@
 *.jar
 *.war
 *.ear
+
+# vim swap file 
+*.swp
+.gradle/
+
+# macos info file
+.DS_Store
+
+# build
+build/
+out/
